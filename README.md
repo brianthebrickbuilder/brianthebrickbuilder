@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Brian Richardson
+- 👀 I’m interested in computers and robots.
+- 🌱 I’m currently learning Python, and development of remote robotics systems.
+- 💞️ I’m looking to collaborate on either a Python project or a robotics project.
+- 📫 brianthebrickbuilder@gmail.com
